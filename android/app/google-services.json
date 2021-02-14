@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045168174462",
+    "firebase_url": "https://flow-27bb4-default-rtdb.firebaseio.com/",
+    "project_id":"flow-27bb4-default-rtdb",
+    "storage_bucket": "flow-27bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045168174462:android:831da4fa3da7d86583af2f",
+        "android_client_info": {
+          "package_name": "com.example.flutterproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045168174462-15uv8t0e7ji2n5tpgf5j5hdmkpn8v8a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sQqPYOF1qqkgb6b53Cch0B_MDtoIq4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045168174462-15uv8t0e7ji2n5tpgf5j5hdmkpn8v8a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
