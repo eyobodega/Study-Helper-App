@@ -4,6 +4,8 @@ A new Flutter project.
 
 Webiste which includes youtube video explaining the project: https://devpost.com/software/flow-5p7kg1
 
+Formal video presentation for Hackathon conference: https://www.youtube.com/watch?v=jNPhLcIsHKg
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
