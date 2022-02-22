@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-Webiste which includes youtube video explaining the projectz: https://devpost.com/software/flow-5p7kg1
+Webiste which includes youtube video explaining the project: https://devpost.com/software/flow-5p7kg1
 
 ## Getting Started
 
